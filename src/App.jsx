@@ -149,7 +149,7 @@ export default function App() {
       <footer className="site-footer">
         <div className="footer-inner">
           <a className="footer-logo" href="#">
-            <img src="/assets/logo-sidefold.png" alt="" width="26" height="26" />
+            <img src="/assets/logo-sidefold-v2.png" alt="" width="26" height="26" />
             <span>Sidefold</span>
           </a>
           <div className="footer-links">
