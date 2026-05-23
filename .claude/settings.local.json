@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/victor.couce/Developer/sidefold-landing/assets/logo.png /Users/victor.couce/Developer/sidefold-landing/public/assets/logo.png && cp /Users/victor.couce/Developer/sidefold-landing/assets/screenshots/*.png /Users/victor.couce/Developer/sidefold-landing/public/assets/screenshots/)",
+      "Bash(npm config *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: Set up Vite + React landing page for Sidefold Chrome extension *)",
+      "Bash(git remote *)",
+      "Bash(git rebase *)",
+      "Bash(ls -la /Users/victor.couce/Developer/ | grep sidefold)",
+      "Bash(mv .git sidefold-landing/)",
+      "Bash(mv .gitignore sidefold-landing/)",
+      "Bash(mv package.json sidefold-landing/)",
+      "Bash(mv package-lock.json sidefold-landing/)",
+      "Bash(mv index.html sidefold-landing/)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__browser_batch",
+      "mcp__Claude_in_Chrome__javascript_tool",
+      "Bash(git commit -m 'Add production-ready configuration and documentation *)",
+      "Bash(git commit -m 'Replace logo with blue play button icon *)",
+      "Bash(git push *)",
+      "Bash(git commit -m 'Revert logo back to PNG format *)"
+    ]
+  }
+}
