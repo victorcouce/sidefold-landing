@@ -1,0 +1,37 @@
+{
+  "name": "Sidefold - Organize your YouTube subscriptions",
+  "short_name": "Sidefold",
+  "description": "Sidefold adds folders and feed filtering directly inside YouTube. No clutter, no learning curve — it just works.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/1.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/screenshots/2.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
