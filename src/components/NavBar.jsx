@@ -24,7 +24,7 @@ export default function NavBar() {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="nav-inner">
         <a className="nav-logo" href="#" onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>
-          <img src="/assets/logo.png" alt="" width="30" height="30" />
+          <img src="/assets/logo.svg" alt="" width="30" height="30" />
           <span>Sidefold</span>
         </a>
         <div className="nav-links">
