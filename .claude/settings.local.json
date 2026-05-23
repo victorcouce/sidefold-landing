@@ -22,7 +22,8 @@
       "Bash(git commit -m 'Add production-ready configuration and documentation *)",
       "Bash(git commit -m 'Replace logo with blue play button icon *)",
       "Bash(git push *)",
-      "Bash(git commit -m 'Revert logo back to PNG format *)"
+      "Bash(git commit -m 'Revert logo back to PNG format *)",
+      "Bash(git mv *)"
     ]
   }
 }
