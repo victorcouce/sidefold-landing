@@ -168,9 +168,9 @@ function App() {
             <span>Sidefold</span>
           </a>
           <div className="footer-links">
-            <a href="#">GitHub</a>
-            <a href="#">Contact</a>
-            <a href="#">Privacy Policy</a>
+            <a href="https://github.com/victorcouce/Sidefold" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="mailto:victor.couce@gmail.com">Contact</a>
+            <a href="https://victorcouce.github.io/Sidefold/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
           </div>
           <span className="footer-tagline">Made with ♥ for YouTube power users</span>
         </div>
