@@ -83,7 +83,7 @@ npm run preview
 ## 🔗 Enlaces
 
 - **Chrome Web Store**: https://chromewebstore.google.com/detail/sidefold/ioochdbninijmkmgiahmklhheffphmfa
-- **GitHub**: https://github.com/victorcouce/sidefold-landing
+- **GitHub**: https://github.com/victorcouce/Sidefold
 
 ## 📄 Licencia
 
