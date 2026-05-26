@@ -9,7 +9,7 @@ import {
   IconGlobe, IconShield,
 } from './components/Icons';
 
-const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/jgmhkbhbecgiligmcplmmhpjhhpmokgf';
+const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/ioochdbninijmkmgiahmklhheffphmfa';
 
 export default function App() {
   const goTo = useCallback((id) => {

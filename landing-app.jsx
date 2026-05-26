@@ -1,4 +1,4 @@
-const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/jgmhkbhbecgiligmcplmmhpjhhpmokgf';
+const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/ioochdbninijmkmgiahmklhheffphmfa';
 
 const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "bgTone": "cool",

@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/jgmhkbhbecgiligmcplmmhpjhhpmokgf';
+const CWS_URL = 'https://chromewebstore.google.com/detail/sidefold/ioochdbninijmkmgiahmklhheffphmfa';
 
 export default function NavBar() {
   const [scrolled, setScrolled] = useState(false);

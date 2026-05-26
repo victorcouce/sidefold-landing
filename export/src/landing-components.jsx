@@ -163,7 +163,7 @@ function NavBar() {
         <div className="nav-links">
           <a className="nav-link" onClick={() => goTo('features')}>Features</a>
           <a className="nav-link" onClick={() => goTo('privacy')}>Privacy</a>
-          <a className="nav-cta" href="https://chromewebstore.google.com/detail/sidefold/jgmhkbhbecgiligmcplmmhpjhhpmokgf" target="_blank" rel="noopener noreferrer">
+          <a className="nav-cta" href="https://chromewebstore.google.com/detail/sidefold/ioochdbninijmkmgiahmklhheffphmfa" target="_blank" rel="noopener noreferrer">
             Add to Chrome
           </a>
         </div>
